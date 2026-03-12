@@ -6,7 +6,7 @@ import PhoneIcon from "@mui/icons-material/Phone";
 import EmailIcon from "@mui/icons-material/Email";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import { CommonPageHeroSection } from "@/components/app-header/common-page-hero";
-import { ContactForm } from "../form/contact-form";
+// import { ContactForm } from "../form/contact-form";
 
 export const ContactUsPage: React.FC = () => {
   return (
@@ -172,7 +172,7 @@ export const ContactUsPage: React.FC = () => {
                 </Typography>
               </Stack>
 
-              <ContactForm />
+              {/* <ContactForm /> */}
             </Paper>
 
             <Typography
