@@ -1,32 +1,29 @@
 import Link from "next/link";
-import { Button,  ButtonProps, SvgIconTypeMap } from "@mui/material";
+import { Button, ButtonProps, SvgIconTypeMap } from "@mui/material";
 import { OverridableComponent } from "@mui/material/OverridableComponent";
 
-export interface BaseButtonProps extends ButtonProps {
-  LeftIcon?: OverridableComponent<SvgIconTypeMap<object, "svg">>;
-  children: string | React.ReactNode;
-  RightIcon?: OverridableComponent<SvgIconTypeMap<object, "svg">>;
-  loading?: boolean;
-  rounded?: boolean;
+// 1. This "Module Augmentation" tells MUI that 'whitebtn' is a real variant.
+declare module '@mui/material/Button' {
+  interface ButtonPropsVariantOverrides {
+    whitebtn: true;
+  }
 }
 
-// Extend the variant type to include 'whitebtn'
-export interface BaseButtonProps extends Omit<ButtonProps, 'variant'> {
-  variant?: ButtonProps['variant'] | 'whitebtn'; 
+// 2. Now you can extend ButtonProps directly without errors.
+export interface BaseButtonProps extends ButtonProps {
   LeftIcon?: OverridableComponent<SvgIconTypeMap<object, "svg">>;
-  children: string | React.ReactNode;
+  children: React.ReactNode; 
   RightIcon?: OverridableComponent<SvgIconTypeMap<object, "svg">>;
   loading?: boolean;
   rounded?: boolean;
 }
 
 export const BaseButton: React.FC<BaseButtonProps> = (props) => {
-  const { LeftIcon, children, RightIcon, variant, loading, href, rounded, ...rest } = props;
+  const { LeftIcon, children, RightIcon, variant = "contained", loading, href, rounded, ...rest } = props;
 
   return (
     <Button
-      // If variant is whitebtn, it uses our custom theme style
-      variant={(variant as any) ?? "contained"} 
+      variant={variant} // No 'as any' needed anymore!
       {...(href && { LinkComponent: Link, href })}
       {...rest}
       sx={{ 
@@ -34,7 +31,6 @@ export const BaseButton: React.FC<BaseButtonProps> = (props) => {
         ...rest.sx 
       }}
     >
-      {/* ... icon logic remains the same ... */}
       {children}
     </Button>
   );
