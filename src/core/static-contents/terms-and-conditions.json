@@ -1,0 +1,808 @@
+{
+  "content": [
+    {
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These terms of service form a tri-partite agreement and apply to any and all “services” you, as an end user, obtain from Matrix Aviation Portal LLC, a limited liability company based in Dubai, United Arab Emirates. Including of its any subsidiaries or affiliates (“us”, “we” or other term of similar context), and a network of independent contractor mail centers (“mc”) who are referred to by us also as “channel partners”, and license our platform technology to offer digital mailbox solutions and other services to end users. By being listed as an mc on our website, or accessing or using any of the services, you agree to be bound by these terms, including our privacy policy at www.usasfaa.com, and any conditions appropriately placed on our website or mobile application, which shall be read together with these terms and are hereby incorporated by reference (“terms”), and any subsequent modifications or amendments thereto."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you do not agree to all of these terms, you should not use the services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our channel partners agree to be bound by all of the applicable terms and any subsequent modifications or amendments unless they are bound to us by a separate agreement that supersedes these terms. Capitalized terms herein are to be interpreted as defined hereunder."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "subTitle": "These terms include:",
+          "list": [
+            "Your agreement that the services are provided “as is”, as available and without warranty;",
+            "Your agreement that we and channel partners have no liability regarding the services;",
+            "Your consent to release and hold harmless us and channel partners from all liability based on claims arising under this agreement or the use of the services; and",
+            "Your agreement to indemnify us and channel partners from claims due to your use or inability to use the services."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IMPORTANT HIGHLIGHTS:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Matrix Aviation Portal LLC is a technology company that operates through several subsidiaries and affiliates and provides a web portal “Website” or “Platform”, interchangeably) to enable its Channel Partners, to license our Platform and service end users (“Customers”) with virtual address, remote Mail management capabilities and other personal or business-related services (“Services”). “Mail” includes letter mail and packages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Customers may be either individuals or businesses that subscribe directly to our Platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "By subscribing to our Service on USASFAA.COM, you will gain a virtual address and initial access to our Platform. When you request action from USASFAA.COM your actions are carried out by our Registered Agent (RA) or Mail Center Partners (MC) to perform certain Services. You are contracting with Your (RA) or MC to perform such Services in the Platform. When you sign-up with us or buy a Service from us, we process your Services payment via our payment processor Stripe. The Platform and display information regarding your chosen Services in your Account Dashboard."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Primary Service of USASFAA.COM is to be your registered agent for managing and forwarding your FAA related material. However, should you wish to use your mailbox receive United States Postal Service (“USPS”) mail, you must complete the USPS Form 1583 and then we shall also be your Commercial Mail Receiving Agency (CMRA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Platform subscription payments are due and payable for access to your Account regardless of whether you submit a USPS Form 1583, or never receive any Mail at a Channel Partner. Termination of your Account at any time is possible by informing us, see our refund policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enterprise Plans include specific feature sets, pricing details and terms, which may be customizable to meet a client’s unique requirements."
+        }
+      ]
+    },
+    {
+      "title": "Model and Relationships:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A digital mailbox (“DM”) is a way of adding of a digital layer of access and services by a technology company to a traditional private mailbox (“PMB”) located at a physical mail center or address (“MC”). A DM Customer receives an MC PMB address format known also as a “virtual address”  (VA) which may be used for certain purposes and to which Mail may be securely delivered, sorted, stored, and filed under a DM Customers PMB account number."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mail arrival notifications are available to the DM Customers via the DM Platform and WhatsApp (if connected), while viewing access and taking digital and physical possession of the Mail may be available to Customers"
+        },
+        {
+          "type": "list-ul",
+          "listType": "lower-roman",
+          "list": [
+            "by requesting Mail scanning services to their Account from an MC in the Platform.",
+            "by scheduling an in-store pickup from the MC in the Platform (per the USPS regulations, if applicable).",
+            "or by requesting Mail forwarding services from an MC in the Platform."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We are a SaaS (Software as a Service) technology company that operates through several subsidiaries and affiliates to enable MC Channel Partners who license our Platform to offer virtual address, DM solutions and other Services to Customers. We provide you and Your MC with access to the Platform to communicate, track, view, pay and administer the Services. You shall communicate all Mail processing requests to your dashboard and pay us for the Services only in the Platform. When you request Your MC perform certain Services, you are contracting with Your MC to perform such Services in the Platform. Your MC controls the ownership rights and licensing obligations of its MC street address (whether by purchase or lease), and performs the actual receipt, scanning, storage, and forwarding (“Processing”) of your Mail per your authorization and instructions, and we process your Services payment via the Platform and display information regarding your selected Services in your Account Mail Dashboard. USASFAA.COM does not take part in physical Mail Processing whatsoever; nor does USASFAA.COM have any control over the delivery and distribution of your Mail, its assignment to physical mailboxes, or the scanning for purposes of the Service. You acknowledge and agree that in any case in which Mail is not properly assigned, scanned, or otherwise handled (including damaged or lost items), you will only look to the MC for liability per the Terms, and we are not liable whatsoever to you, to the sender or recipient of such Mail, nor to any other third party."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notwithstanding the foregoing, we reserve the right to operate an MC under any subsidiary or affiliate and in such circumstance, all Terms applicable to an independent MC, shall equally apply to an affiliated MC."
+        }
+      ]
+    },
+    {
+      "title": "Subscription to the Platform",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In order to receive access to Services and become a Customer you must create your account on the Platform (“Account“). To open an Account, you must select a subscription plan and accept the RA location (“Your RA”) or MC location (“Your MC”), pay the subscription fee and provide us with your name, contact information, email address, and select a password (”Registration”). You must also connect your WhatsApp number for the ability to receive push notifications. When Registration is complete, you will receive your full virtual address PMB format, and you may access your Account via your “Mail Dashboard”, but you may not have delivered, receive at, nor forward to, Your MC any USPS mail prior to completing the USPS required steps then in effect. Any USPS mail so received at Your MC, shall be returned to the Post Office responsible for delivery with the endorsement: “Undeliverable, Commercial Mail Receiving Agency, No Authorization to Receive Mail for this Addressee”. You are solely and entirely responsible for selecting and engaging Your MC and it is your obligation to carefully research Channel Partners, and to satisfy yourself that Your MC is competent, trustworthy, financially stable, and operating in compliance with all applicable Federal, State, Commonwealth, EU, and other territorial laws (including without limitation any applicable executive or administrative orders issued by a governmental authority). Notwithstanding, we may offer you assistance in finding and selecting Your MC from a listing on our Platform, provided however that you hereby agree that such assistance does not constitute a recommendation or endorsement of any Channel Partner. We will have no liability whatsoever for your selection of Your MC, nor for any claims related to or arising out of any acts or omissions of Your MC or any Channel Partner in enabling or facilitating your receipt of Mail, or with any of the Services provided hereunder. For the avoidance of doubt, Your MC is your selected CMRA, and under no circumstances will USASFAA.COM be deemed to be an MC or CMRA, as a result of any of the Services or the Platform."
+        }
+      ]
+    },
+    {
+      "title": "Account, Password, Security:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You are the sole authorized user of your Account. You are responsible for maintaining the confidentiality of any password and Account number or information provided by you or us for accessing the Service. You are solely and fully responsible for all activities that occur under your password or Account. We have no control over the use of your Account and expressly disclaim any liability derived therefrom. Should you suspect that any unauthorized party may be using your password or Account, or you suspect any other breach of security, you must contact us immediately."
+        }
+      ]
+    },
+    {
+      "title": "USPS Form 1583, Notary, ID Verification, and Additional Documents:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the USA, our Channel Partners are USPS approved commercial mail receiving agents (“CMRAs”) to receive USPS mail, though we are not responsible for their compliance with and adherence to USPS regulations. To receive USPS mail at Your MC, each Customer (including spouses) must complete and execute (in the manner determined by USPS regulations) a separate USPS Form 1583 to authorize Your MC to receive mail on their behalf. The USPS Form 1583 is a contract between yourself, Your MC and USPS. We are not party to the USPS Form 1583, but we may provide you with technology to ease and partially facilitate its submission to Your MC for you. Channel Partners are independently operated businesses that license technology from us, and we are neither liable nor responsible for any acts or omissions of Channel Partners or yourself. If you choose to execute the USPS Form 1583 via a notary, we may assist you to schedule an optional video session with an online notary for an additional cost. Under USPS regulations, you may not direct USPS mail to, nor have delivered or receive USPS mail at, Your MC, until Your MC or USPS (if applicable) approves your USPS Form 1583 application. We may also require you to complete an identity verification process and provide us with certain valid and current identification documents for “Know Your Customer” (“KYC”) and anti-money laundering (“AML”) purposes. You agree to continuously provide us with accurate, complete, and up-to-date information. Please note that we cannot guarantee the approval of an application nor the length of time Your MC requires to review and approve your application. You may also be required to complete additional documents for Your MC as required by any State for any purpose including but not limited to the service of process. Where provided by law, a process server may attempt to serve you by mail or to serve Your MC as your “mail agent” on your behalf. We assume no liability should you be deemed to have accepted service of process as a result of use of the Services and you release and hold us harmless from any and all claims arising out of such actual or attempted service. Upon approval of your USPS Form 1583, IDs, and other verification processes if and when applicable, you may begin to have delivered and receive mail at Your MC. Please note that the USPS Form 1583 may be changed by the USPS, and Costumers may be required to complete a new USPS Form 1583 and pay any costs associated with their Accounts to bring it into compliance due to such changes. You alone are responsible to comply with your obligations per USPS regulations."
+        }
+      ]
+    },
+    {
+      "title": "Your Obligations for Use of Address and Mail Delivery:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You will complete a separate USPS Form 1583 to authorize Your MC to receive USPS mail at the CMRA address. You agree to complete all necessary documents, including USPS Form 1583 and any required acknowledgment form relating to service of process. You further agree to accept a revised version of the Terms and USPS Form 1583 whenever any information required by the Terms or USPS Form 1583 changes. You will notify us within three (3) business days of any change of the information that you provided in your USPS Form 1583 application or during you Registration process. Any failure by you to:"
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            "provide us with accurate information on an initial and continual basis; or",
+            "respond within three (3) business days to any inquiries made by us to determine the validity of information that you provide, will be considered a material breach of the Terms and grounds for cancellation of your Account."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": " You acknowledge that once you have completed USPS Form 1583 and provided IDs as required, that Your MC and/or the USPS, have final determination of its acceptance and its continuous validity and that you will not forward or direct mail to Your MC until Your MC approves your application."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under no circumstances will you list Your MC physical address without your PMB number as your business address, nor will you imply or seek to create any impression that you maintain a physical location for your customers at Your MC physical address without your PMB number, including but not limited to a manner which violates the guidelines or terms of use for a listing on Google (whether for a “Business Profile” on Google My Business or for any other service that Google offers) or on or with any other online service, directory, marketplace, or tool for listing or promoting businesses."
+        },
+        {
+          "type": "paragraph",
+          "text": "You agree to pay promptly "
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-roman",
+          "list": [
+            "all sales, use, excise, consumption and any other taxes and license fees which you are required to pay to any governmental or municipal authority (and, at our request, you will provide to us evidence of such payment) and",
+            "any taxes paid by us to any governmental or municipal authority, that are attributable to your PMB."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We do not guarantee that you may be permitted to use Your MC address and your digital mailbox address for the purpose of registering an address with a government agency such as for company formation/incorporation services, procurement of business licenses, or loans. You acknowledge and agree that these uses (and other similar uses) depend on local laws and regulations of the Country, State, County, City, and Township in which you wish to establish an address and you are solely responsible for confirming the acceptance of Your MC address and digital mailbox address for such purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless you have opted-in to and paid for our Registered Agent Plan, you may not name Your MC as your registered agent in any manner. Violation of this section may be grounds to terminate your Account and/or charge you for the unauthorized usage of the Registered Agent Plan, at our sole discretion. Additionally, you may be reported to the Secretary of State for such a violation which may result in harsh consequences levied against your entity including but not limited to, dissolution."
+        }
+      ]
+    },
+    {
+      "title": "Liquidated Damages.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You acknowledge prohibited usage of an MC street address or your PMB address under these Terms, will cause damage to us and your MC in an amount that is difficult to quantify. To avoid waste of the time and expense to quantify damages, if you, negligently or intentionally, use Your MC (or other MCs) street address or your PMB address in violation of these Terms, then we shall be entitled to damages from you in the liquidated amount equal to $150 per violation."
+        }
+      ]
+    },
+    {
+      "title": "RA Operations:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your RA provides basic services without any additional costs beyond your subscription fee, such as use of the physical address, opening your FAA Related Material and scanning the contents of the received Mail. Your RA will follow your requests which include but not limited to and discarding/shredding or recycling of your FAA Mail or forwarding your mail via your chosen 3rd Party Provider.  Processing your FAA related material is included within your annual subscription however, forwarding your mail requires additional fee-based actions (other services we provide as applicable) for your mail processing via our Platform. These include such as forwarding to another address registered in your account, opening and scanning contents per your authorization (including but not limited to, in accordance with 39 U.S. Code § 404 (c)), shredding or recycling, physically storing, signing scanned documents electronically, managing mailing lists, photographing or repacking parcels, consolidating parcels for shipment, and other services offered on our site. Your RA cannot process any other commercial mail until you designate them as you CMRA and complete the USPS 1583."
+        }
+      ]
+    },
+    {
+      "title": "MC Operations:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your MC may provide basic services without any additional costs beyond your subscription fee, such as use of the virtual address, scanning the outside of your received Mail (at the sole discretion of Your MC) and discarding or recycling your Standard Mail (as defined by the USPS). Your MC may also perform additional fee-based actions (other services we provide as applicable) for your mail via our Platform, such as forwarding to another address, opening and scanning contents per your authorization (including but not limited to, in accordance with 39 U.S. Code § 404 (c)), shredding or recycling, physically storing, signing scanned documents electronically, managing mailing lists, photographing or repacking parcels, consolidating parcels for shipment, and other services offered on our site. From your Mail Dashboard, you may also digitally store Mail, create and send Mail, retrieve and search archived Mail, receive and play phone messages, receive and send fax messages, pay bills, and initiate physical Mail task lists for Your MC to perform as outlined in Section 9, for which an additional costs may be charged at times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Following Your MC’s approval of your USPS Form 1583 (and/or where appropriate, following our approval pursuant to our know-your-customer; identity verification; and anti-fraud and anti- money laundering processes), Your MC will accept your incoming Mail, including registered, insured, certified, and restricted Mail, excluding COD Mail. Information provided on USPS Form 1583 and other registration and identity verification processes are shared with Your MC for the limited purpose of serving as your MC and receiving our Services. Mail arriving at Your MC must be addressed to you in your legal name as it appears on your submitted legal IDs or in a ubiquitously recognized nickname that it is easily possible for us to determine in our sole discretion that you are the intended and obvious addressee, otherwise such Mail will be returned to the appropriate delivery service stating that the item was undeliverable. You must use the exact USPS sanctioned mailing address format for the Services without modification as set forth in the USPS Form 1583, otherwise the USPS will return Mail without a proper address to the sender endorsed “Undeliverable as Addressed.”"
+        }
+      ]
+    },
+    {
+      "title": "Express Authorization",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You hereby authorize Your MC to scan the outside of your Mail; provided, however, that you acknowledge that Your MC may decline to scan the outside or contents of Mail that in its sole discretion deems to be unfit, obscene, an incitement to hate or violence or contrary to law."
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            "You hereby authorize Your MC to determine at its sole discretion whether to discard, recycle or insert into your Digital Mailbox your Standard Mail, as that term is defined by the USPS, which is commonly referred to as “junk mail,” such as flyers, circulars, advertising and catalogues. Standard Mail includes any items postmarked “Standard,” “Std,” “Std Pre-sort,” “non-profit,” or other markings used by the USPS to identify Standard Mail.",
+            "You hereby authorize Your MC to open and inspect, any Mail as appropriate in Your MC’s discretion, including (without limitation) any Mail that may arrive damaged or suspicious"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services and Permissions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We or Your MC may elect to display or remove any of the Services available at the MC at any time and without prior notice. From your Mail Dashboard you may direct Your MC to perform on your behalf or perform yourself as applicable, fee-based actions to your Mail including but not limited to:"
+        },
+        {
+          "type": "list-ul",
+          "listType": "-",
+          "list": [
+            "Forward Mail to addresses you specify",
+            "Open and scan contents of Mail",
+            "Forward Mail to another Account",
+            "Shred or recycle the Mail",
+            "Physically store Mail",
+            "Sign or notarize scanned documents electronically",
+            "Unsubscribe from or opt in to mailing lists",
+            "Unpack parcels for individual reshipment",
+            "Consolidate parcels for shipment",
+            "Hold Account",
+            "Personal Delivery",
+            "Any other Services offered or to be offered on the Platform"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Note that you are responsible for all instructions to perform Services along with their expenses. Neither we nor Your MC are responsible for Mail items that are recycled or shredded per your request. Your MC will exercise due care while handling and processing your Mail; however, you explicitly agree that Your MC and us, will not be held liable for any damage that may occur to your Mail while processing the Mail on your behalf or anytime thereafter."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a Mail item contains a PIN document (for example, a bank card, rear view of a credit card), Your MC may refuse to scan the PIN document at its sole discretion."
+        },
+        {
+          "type": "paragraph",
+          "text": "You acknowledge and agree that any of your Mail in physical or digital storage at Your MC that you have not downloaded, requested forwarded or destroyed prior to the end of its applicable storage period per our Terms, may be destroyed or deleted, and neither us nor any Your MC shall have any liability whatsoever for continued storage and/or any destruction of such  mail upon your authorization and  consent for Your MC to open, scan, forward, or otherwise process your Mail, you are granting Your MC and us the complete right to perform the Services per your instructions, specifically including but not limited to, any Mail that may be regarded Upon your authorization and or is labelled as confidential, personal data or special category personal information, or similar by any applicable privacy law, or may be covered by or contain health and healthcare related information protected under the U.S. Health Insurance Portability and Accountability Act of 1996 (or “HIPAA”), 42 USC 1320d and 45 CFR 160-164, and/or all other Federal, State, Commonwealth, EU, and other territorial privacy laws that may be applicable to or in your jurisdiction, as well as any applicable executive or administrative orders issued by a governmental authority."
+        },
+        {
+          "type": "paragraph",
+          "text": "By requesting any of the above Service categories you are giving express and legally binding authorization to Your MC and/or us, as applicable, to perform such tasks."
+        }
+      ]
+    },
+    {
+      "title": "Unauthorized Mail:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You acknowledge that we deliver scanned copies of Mail to you via your Account which may be rendered to a searchable PDF format and not via email. We do not warrant that Mail will never be mistakenly assigned to another Account, and You acknowledge that in such cases we are not liable to you or the intended recipient. We will make our best efforts to notify both the intended recipient and the unintended recipient, immediately upon discovery of any error, and to remove the item from the unintended recipient’s Mail Dashboard."
+        },
+        {
+          "type": "paragraph",
+          "text": "We cannot guarantee that scanned copies of Mail will not be mistakenly assigned to another Account by means other than a transfer from the addressed Customer (“Unauthorized Mail”), and although we will make efforts to notify both the intended recipient and the unintended recipient immediately upon discovery of any error, and remove the item from the unintended recipient's Mail Dashboard, subscribers acknowledge that we are not liable in such cases. If Unauthorized Mail appears in your Mail Dashboard, you must alert us, and you may not request any action with respect to the Unauthorized Mail, including but not limited to, to view, read, copy, print or otherwise distribute, disseminate, disclose, or use for any purpose any content or other information on or within a piece of Unauthorized Mail. Violation of these terms may expose you to legal liability, both criminal and civil, and monetary damages, as well as termination of your Account."
+        }
+      ]
+    },
+    {
+      "title": "Forwarding Mail.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To order your USPS mail to be forwarded you must comply with the USPS requirements then in effect, substantially as stated in the USPS Form 1583 or other bodies of applicable law and regulation. If you order your Mail forwarded by Your MC, live shipping quotes for specific carriers or delivery services may be available on the Platform. You acknowledge and agree that your purchase of Mail forwarding services is with your chosen Mail- carrying service and that the responsibility thereof and of the placement of your Mail is in the care of the selected Mail-carrying service, and neither we nor Your MC is responsible for such Mail, its arrival, and/or the speed of its delivery."
+        },
+        {
+          "type": "paragraph",
+          "text": "When Forwarding Mail from Your MC to a location outside of the United States, you expressly acknowledge and agree that such action will subject your Mail to the export laws and regulations of the United States (or any other country of origin when applicable) and the regulations of the jurisdiction to which you forward your Mail. You will also abide by our Export Policy then in effect which may be found at USASFAA.COM, in addition to any terms of service promulgated by Your MC; and you are solely responsible for compliance with such laws and terms. You acknowledge and agree that we play no role in the physical delivery of Mail inside or outside the United States; and to that end, you further agree to indemnify and hold us harmless from any claim against us that is related to your export and that you shall not name us as a “shipper of record,” “exporter,” forwarding agent,” or “U.S. principal party in interest” on the export shipment of any Mail. You agree that you alone are responsible to update your USPS Form 1583 in the appropriate manner with the address(es) to where you are forwarding USPS mail. Failure to comply with USPS regulations may result in Account termination without any recourse."
+        }
+      ]
+    },
+    {
+      "title": "Check Deposit Service.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Your MC may elect to provide you with Check Deposit Service (“CDS”) to process and deposit checks (“Check” or “Checks”) that arrive in the Mail to your Account. You must comply with the all applicable rules and regulations governing deposit transactions. You acknowledge and agree that Your MC will use commercially reasonable efforts to execute the limited permissions granted by you and that additional responsibilities and information sharing shall be required in order to facilitate check deposits on your behalf. You will provide such information to us or Your MC at their request, including representations and warranties, deposit account identifying information, and any other information required to facilitate deposits on your behalf. Your MC may rely solely on identifying numbers provided by you to determine the bank and account even if the numbers identify a bank or account holder different from the one identified by you by name. Deposit requests are final and may not be recalled or amended. You hereby indemnify us and Your MC for any losses, liabilities, costs or expenses suffered or incurred as a result of an incorrect account of other identification."
+        }
+      ]
+    },
+    {
+      "title": "Illegal Activity.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You must immediately notify us of any fraudulent, unauthorized, illegal, or suspicious use of the Services or any other breach of security or unauthorized or illegal activity that you reasonably suspect. We may also block your access to, or terminate, your Account, in the event we have a reasonable basis to suspect or believe you are using your Account for illegal purposes or in violation of the Terms."
+        }
+      ]
+    },
+    {
+      "title": "Pricing.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Our Platform displays the annual subscription pricing (“Price Plan”) as well as pricing for optional Services not included in or above the included limits of a chosen Price Plan (“Extras”) which are is incorporated into the Terms by reference but may not be up to date. All fees resulting from Extras or Price Plans pursuant to the Terms are subject to change by us at any time and in our sole discretion. You acknowledge that you have web access to the schedule detailing the monthly fees and all other fees applicable to all Services. You agree to pay all activation fees, Price Plans and Extras (including charges incurred by persons using your account) and/or for all Services."
+        }
+      ]
+    },
+    {
+      "title": "Billing.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You agree that we may immediately charge you for all charges or monies owed by you to us. Your monthly subscription fee is billed at the start of each month and the billing merchant is “Matrix Aviation Portal LLC/USASFAA.COM” and that name will appear on your credit card statement. Annual fees are billed at the start of subscription year. By subscribing to or using the Services, you are expressly agreeing that we are permitted to bill you charges associated with the Price Plan and Extras, any applicable tax, customs duties, and any other charges you may incur in connection with your use of the Services."
+        },
+        {
+          "text": "As used in the Terms, “billing” shall indicate either a charge or debit, as applicable, against your payment method. If you want to use a different payment method or if there is a change in your credit card validity or expiration date, you may edit your payment method information in your Account. If your designated payment method reaches its expiration date, failure to update your payment method is deemed as your express agreement that we may continue, suspend, cancel, or terminate your Account at our sole discretion. Notwithstanding, your continued use of the Services constitutes your authorization for us to continue billing your payment method and you remain responsible for any uncollected amounts. You agree not to attempt a chargeback without justified reason, otherwise at our sole discretion, we may block, cancel, or disable your Account. We may change our used currencies list at any given time. Our Price Plans may change based on different currencies, and not necessarily in line with the then-current currency exchange rates."
+        }
+      ]
+    },
+    {
+      "title": "Duration of the Terms.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You agree to be bound by the Terms upon Registration until when your Account and any renewal thereof is finally terminated or cancelled as set forth herein and you cease to benefit from any of the Services. Notwithstanding, all unpaid amounts due to us warranties, deposit account identifying information, and any other information required to facilitate deposits on your behalf."
+        }
+      ]
+    },
+    {
+      "title": "Termination and Subsequent Mail Forwarding",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You may terminate your Account by giving due notice to us. There is no fee for Cancelling your Account; however, you must promptly pay us any outstanding fees that are associated with the Account, and you are responsible to save, download, export, or remove all your Mail and scanned Mail data in your account prior to cancelling your Account. Once you request cancellation of your Account, we will place your Account in “Cancelled” status. Immediately upon putting an Account into Cancelled status, you will no longer be able access the Platform and Services and we will cancel all pending Services and requests. The Mail data in your Account will be subsequently deleted and rendered unretrievable when your Account has been Cancelled and your virtual address and PMB number shall dissociated with you and become available to other Customers. Cancellation of your Account for any reason whatsoever shall also immediately void the validity of your USPS Form 1583 and your relationship with Your MC as your CMRA."
+        },
+        {
+          "type": "paragraph",
+          "text": "You hereby agree and acknowledge that we may, at our sole discretion, cancel the Services and terminate the Terms without cause at any time. Any termination notices that we choose to give you may be provided via email, your Mail Dashboard, or other electronic form."
+        },
+        {
+          "type": "nested",
+          "content": [
+            {
+              "type": "list-ol",
+              "listType": "lower-alpha",
+              "list": [
+                {
+                  "description": "Notwithstanding the above, we may also terminate your Account immediately for “Cause.” You agree that the actions or failure to act of any user in your account will be attributed to you. “Cause” shall include, but not be limited to, the following:",
+                  "type": "list-ol",
+                  "listType": "lower-roman",
+                  "list": [
+                    "Your behavior towards our employees, Channel Partners, contractors, or other customers (including but not limited to those of Your MC) is deemed by Your MC as offensive, abusive, violent, threatening or disruptive;",
+                    "You fail to provide, or we are unable to validate, accurate contact/personal information that we require from Customers;",
+                    "You fail to cooperate or provide information on an investigation by a local, state, or federal governmental agency; or",
+                    "You violate or breach any provision of the Terms or your representations or warranties hereunder."
+                  ]
+                },
+
+                {
+                  "type": "list-ol",
+                  "listType": "lower-roman",
+                  "description": "You hereby agree that upon expiration, cancellation, or termination of your Account for any reason whatsoever, you:",
+                  "list": [
+                    "will not file a change of address order with the USPS per the USPS regulations",
+
+                    {
+                      "type": "list-ol",
+                      "listType": "lower-alpha",
+                      "startLetter": "x",
+                      "description": "hereby authorize Your MC to",
+                      "list": [
+                        "accept and destroy any “Unsolicited Mail” (e.g., mail addressed to “occupant,” “current resident,” or similar designation; or coupons, advertising, or other promotional material, including all Standard Mail) and any USPS mail addressed to you that is delivered to Your MC by the USPS for 6 months thereafter; and",
+                        "refuse any package"
+                      ]
+                    }
+                  ]
+                },
+
+                {
+                  "type": "list-ol",
+                  "listType": "lower-roman",
+                  "description": "Notwithstanding, prior to cancelation of your Account for any reason whatsoever, you may proactively change your instructions to Your MC, to:",
+                  "list": [
+                    "Re-mail (i.e., forward) your mail for up to 6 months upon your payment in advance for postage, packaging material and forwarding fees. You must pay a monthly forwarding fee in advance for the time period that your USPS mail is to be re-mailed. It is your responsibility to make arrangements with Your MC to identify any mail forwarding addresses and needs prior to the expiration, cancellation or termination of your Account; or ",
+                    "continue with your initial instructions of “Do not forward my mail.” You understand and agree that USPS mail received subsequent to expiration or termination of your Account shall be handled in accordance with your election as permitted under USPS regulations. You further understand and agree that in order to return or forward such USPS mail, Your MC will require you to pay for new postage for 6 months. You understand that You must select one of the above options upon any expiration or termination of your Account otherwise the default option shall be observed."
+                  ]
+                },
+                {
+                  "type": "list-ol",
+                  "listType": "lower-roman",
+                  "description": "Six (6) months after the expiration, cancellation, or termination your Account, Your MC may",
+                  "list": [
+                    "refuse any Mail addressed to you; and/or",
+                    "destroy any of your Mail remaining at Your MC."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services and Address usage after Account Closure",
+      "content": [
+        "Immediately upon Account closure, you will no longer be able to log in to your Account and we will cancel all pending requests/Services and delete the corresponding service requests from your Account. Upon Account closure, you are prohibited from using the PMB and its virtual address beyond the end of the contractual relationships hereunder. In the event of unauthorized use of the address after the Account closure, we may charge you a penalty/fine. We also reserve the right to initiate further legal action."
+      ]
+    },
+    {
+      "title": "MC Closure, Address Change",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You hereby agree that if Your MC temporarily or permanently closes their MC for business for any reason whatsoever, we may attempt to assist you with an “Account Transfer” to an alternative Channel Partner, however we are not liable for your loss of usage of Your MC virtual address, any effect therefrom, nor for any physical Mail that is left in the custody of Your MC at the time of closure. Your ability to retrieve such Mail shall be determined by USPS policies then in effect. in the event of any Account Transfer, we may assist you with the Account Transfer process and you hereby agree to pay any costs associated with the Account Transfer such as notarizations, plan upgrades etc. We also retain the right at any time to initiate an Account Transfer for your Account based upon our reasonable judgment and sole discretion, change the address names; suite or office numbers; PMB numbers or other designations, as required by a competent legal authority, or if so determined, in our sole discretion."
+        }
+      ]
+    },
+    {
+      "title": "Enterprise Account",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An Enterprise Account allows a (corporate or other) legal entity (“Enterprise Client”), to manage several separate users in a corporate account. The Enterprise Client shall appoint one (or more, subject to our discretion and additional fees) duly authorized Enterprise administrator(s) (“EA”) to manage the Enterprise Account. The Enterprise Client is responsible for all actions of the EA and users of the Enterprise Account. Enterprise Plans include specific and distinct feature sets, pricing details and terms, which may be customisable to meet a client’s unique requirements and are not included in these Terms."
+        }
+      ]
+    },
+    {
+      "title": "Compliance with Laws",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You acknowledge and agree that we cooperate with the USPS Postal Inspection Service and will share any and all information about you and your use of the Services upon its reasonable request. With respect to other third parties, we will provide information about you only as required by valid legal process. We may share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the mental, emotional, physical, and financial safety or wellbeing of any person or legal entity, violations of these Terms or as otherwise required by law."
+        }
+      ]
+    },
+    {
+      "title": "DISCLAIMER OF WARRANT AND LIMIT OF LIABILITY",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "WE DO NOT REPRESENT OR WARRANT THAT THE PLATFORM WILL BE ERROR-FREE, FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED. WE DO NOT REPRESENT OR WARRANT THAT THE INFORMATION AVAILABLE ON OR THROUGH THE PLATFORM WILL BE CORRECT, ACCURATE, TIMELY OR OTHERWISE RELIABLE. WE MAY MAKE CHANGES TO THE FEATURES, FUNCTIONALITY, OR CONTENT OF THE PLATFORM AT ANY TIME. WE RESERVE THE RIGHT IN OUR SOLE DISCRETION TO EDIT OR DELETE ANY DOCUMENTS, INFORMATION OR OTHER CONTENT APPEARING ON THE PLATFORM."
+        },
+        {
+          "type": "paragraph",
+          "text": "THE INFORMATION, CONTENT AND DOCUMENTS FROM OR THROUGH THE PLATFORM ARE PROVIDED “AS-IS,” “AS AVAILABLE,” WITH “ALL FAULTS”, AND ALL WARRANTIES, EXPRESS OR IMPLIED, ARE DISCLAIMED (INCLUDING BUT NOT LIMITED TO THE DISCLAIMER OF ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE). THE INFORMATION AND SERVICES MAY CONTAIN BUGS, ERRORS, PROBLEMS OR OTHER LIMITATIONS, AND WE ARE NOT RESPONSIBLE FOR CORRUPTION OR LOSS OF DATA YOU SUBMIT THROUGH OUR SERVICES. WE AND OUR AFFILIATED PARTIES HAVE NO LIABILITY WHATSOEVER FOR YOUR USE OF ANY INFORMATION OR SERVICE. IN PARTICULAR, BUT NOT AS A LIMITATION THEREOF, WE AND OUR AFFILIATED PARTIES ARE NOT LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, LITIGATION, OR THE LIKE), WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE NEGATION AND LIMITATION OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN US AND YOU. THIS WEBSITE AND THE PRODUCTS, SERVICES, DOCUMENTS AND INFORMATION PRESENTED WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US THROUGH THE PLATFORM OR OTHERWISE SHALL CREATE ANY WARRANTY, REPRESENTATION OR GUARANTEE NOT EXPRESSLY STATED IN THIS AGREEMENT."
+        },
+        {
+          "type": "paragraph",
+          "text": "INFORMATION CONTAINED ON OR MADE AVAILABLE THROUGH THE PLATFORM IS NOT INTENDED TO AND DOES NOT CONSTITUTE LEGAL ADVICE, RECOMMENDATIONS, MEDIATION OR COUNSELING UNDER ANY CIRCUMSTANCE AND NO ATTORNEY-CLIENT RELATIONSHIP IS FORMED. WE DO NOT WARRANT OR GUARANTEE THE ACCURATENESS, COMPLETENESS, ADEQUACY OR CURRENCY OF THE INFORMATION CONTAINED IN OR LINKED TO THE WEBSITE. YOUR USE OF INFORMATION ON THE PLATFORM OR MATERIALS LINKED TO THE WEBSITE IS ENTIRELY AT YOUR OWN RISK. WE ARE NOT A LAW FIRM, AND THE WEBSITE IS NOT A LAWYER REFERRAL SERVICE. IN FACT, IF YOU HAVE LEGAL QUESTIONS, YOU SHOULD CONSULT COMPETENT LEGAL COUNSEL TO ENSURE THE APPROPRIATENESS, COMPLETENESS, ADEQUACY OR CURRENCY OF THE DOCUMENTS PROVIDED."
+        },
+        {
+          "type": "paragraph",
+          "text": "YOU EXPRESSLY AGREE THAT THE TOTAL AMOUNT OF OUR LIABILITY AND THAT OF YOUR MC, IF ANY, FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THE TERMS OR PERFORMANCE HEREUNDER INCLUDING ANY DERIVATIVE CLAIMS AND ACTIONS STEMMING FROM OUR ACTIONS REGARDING OUR RELATIONSHIP WITH YOU SHALL NOT EXCEED $100.00 IN AGGREGATE, REGARDLESS OF THE NATURE OF THE CLAIM."
+        }
+      ]
+    },
+    {
+      "title": "Fraud",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You agree not to use the Services for any illegal purpose and to fully comply with U.S. federal and applicable state or foreign government laws and regulations, including but not limited to USPS regulations, in your use of the Services."
+        },
+        {
+          "type": "paragraph",
+          "text": "If we, in our sole discretion, suspect that your contact information is fraudulent or that you are attempting to use the Services for any unlawful, fraudulent, or illegal activities, we may open and inspect your Mail and we may immediately suspend/terminate your Account and Services without refund. We may also turn over all information concerning you to the USPS Office of the Postal Inspector, the U.S. Federal Bureau of Investigation, the applicable State Attorney General or Embassy or government with jurisdiction, or other national, federal, state, or local law enforcement authorities."
+        },
+        {
+          "type": "paragraph",
+          "text": "You agree to indemnify us and hold us harmless from any and all liability, claims, damages, losses or cause of action arising from such inspection of your Mail or from the release of information regarding you or your use of the Services to such authorities, or otherwise as required by law."
+        }
+      ]
+    },
+    {
+      "title": "Third Party Sites",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We may periodically provide information to you, via our website, your Mail Dashboard or through emails directed to you in care of your Account, concerning other products and services provided by us or third parties. We make this information available to you as a matter of convenience only and in doing so does not endorse any of the products, services or sites being linked or mentioned. Further we neither represent nor warrant nor assume any liability or responsibility for the goods or services or the terms under which such third-party offerings are sold. We shall have no liability, obligation or responsibility for any correspondence, purchase, or promotion between you and any third party with respect to such goods and services and you agree to indemnify, defend, and hold us harmless in the event of any claim, loss or damage arising out of your communications or transactions with third parties identified on our website or through the Services. You acknowledge that some of our Services are provided at extra cost and in collaboration with selected business partners (“Partner Services”). Upon your election to enroll for any Partner Service you may be required and will acknowledge and agree in any event to the terms and conditions set forth by our partners and these serve as integral parts of the Terms. Our business partners may contact you by email and/or phone in connection with such services. To enable your enrollment for any Partner Service, we will share necessary details with the relevant service provider. The collections, usage, and transfer of your information will be in accordance with the applicable laws, rules, regulations, agreements, and our Privacy Policy."
+        }
+      ]
+    },
+    {
+      "title": "Unacceptable Use",
+      "content": [
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            {
+              "type": "list-ol",
+              "listType": "lower-roman",
+              "description": "You may not access or use the Website or Services for or in connection with any activity that constitutes or encourages conduct that would",
+              "list": [
+                "constitute a criminal offense",
+                "give rise to civil liability",
+                "violate any applicable local, state, national, foreign law or industry standard, including, without limitation, any applicable laws and regulations governing intellectual property, privacy, defamation, fraud, mass email, spam, harassment, obscenity, hate-speech, export control, consumer protection, unfair competition and false advertising or any other deceptive practices or",
+                {
+                  "type": "list-ol",
+                  "listType": "lower-alpha",
+                  "description": "provide us with content that may create materials that:",
+                  "list": [
+                    "are pornographic, sexually explicit or violent",
+                    "reasonably likely to cause harm or could be reasonably considered as slanderous or libelous",
+                    "are defamatory of any person, obscene, promotes discrimination based on race, sex, religion, nationality, disability, sexual orientation or age",
+                    "infringe any copyright, design right, database right or trademark of any other person",
+                    "are likely to deceive any person, breach any legal duty owed to a third party, or promote any illegal activity; or",
+                    "if you are not able to form legally binding contracts, are under the age of 18, or are temporarily or indefinitely blocked from our Platform."
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list-ol",
+              "listType": "lower-roman",
+              "description": "You may not access or use the Website or Services to",
+              "list": [
+                "upload, post, email, transmit, record, provide a recording or otherwise make available any information and materials that infringe a third party’s right, especially privacy, publicity, and intellectual property rights; software viruses, trojan horses, worms and any other malicious application to computers and networks; or",
+                "develop or create a similar or competitive product or service to the Website or Services."
+              ]
+            },
+            "You may not use the Website or Services for any commercial or business purpose that is not expressly permitted by the Terms, including, without limitation, providing the Website or Services to third parties by reselling, licensing, renting, leasing, transferring, lending, timesharing, assigning, mirroring, redistributing, or displaying the Website, Services, or any part thereof, without our prior written and explicit permission.",
+            {
+              "type": "list-ol",
+              "listType": "lower-roman",
+              "subTitle": "Without limiting the foregoing, you may not",
+              "list": [
+                "modify any material or content that we make available on the Website or Services, except as expressly permitted under the Terms",
+                "engage in or attempt to engage in any form of testing, scanning, crawling, scraping, probing, robotic navigating, bulk extracting or hacking the Website or Services",
+                "interfere with, burden or disrupt the functionality of the Website or Services",
+                "circumvent, impair or manipulate the operation of the Website or Services",
+                "work around or circumvent any technical limitations on the Website or Services, or use any tool to enable features or functionalities that are otherwise disabled, inaccessible or undocumented in the Website or Services",
+                "embed, frame or otherwise link directly to the Website or Services, from any other webpage, application or other resources, without our prior written permission",
+                "engage in any false, misleading or deceptive acts or practices involving the Website or Services, or your identity, agency or affiliation with any person or entity; or",
+                "breach the security of the Website or Services, or any network or server used by the Website or Services."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To the maximum extent permitted by law, we may at any time, at our sole discretion, and without prior notice, delete, or modify any material from the Website or Services, in whole or in part."
+        }
+      ]
+    },
+    {
+      "title": "Intellectual Property Rights",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All text, graphics, editorial content, data, formatting, graphs, designs, HTML, look and feel, photographs, music, sounds, images, software, videos, designs, typefaces, and other content (collectively “Proprietary Material”) that you see or read on the website or through the Services is owned by us. Proprietary Material is protected in all forms, media and technologies now known or hereinafter developed. We own all Proprietary Material, as well as the coordination, selection, arrangement, and enhancement of such Proprietary Materials as a Collective Work under the United States Copyright Act, as amended. The Proprietary Material is protected by the domestic and international laws of copyright, patents and other proprietary rights and laws. You may not copy, download, use, redesign, reconfigure or retransmit or reverse engineer, anything from the Services without our express prior written consent. Any use of such Proprietary Material, other than as permitted therein, is expressly prohibited without our prior, written permission. Our service marks and trademarks including, without limitation, Matrix Aviation Portal LLC, USASFAA.COM and the Matrix Aviation Portal LLC and the USASFAA.COM logos are service marks owned by Matrix Aviation Portal LLC. Any other trademarks, service marks, logos and/or trade names appearing via the Services are the property of their respective owners. You may not copy or use any content off our website nor any of these marks, logos or trade names without the express prior written consent of the owner."
+        }
+      ]
+    },
+    {
+      "title": "Personal Data",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You hereby agree that we may process, store and transfer your personal data, including, but not limited to, your name, email address, postal address, phone number and any other Mail, documents or other information that you store in your Account (collectively, “Personal Data”) and use your Personal Data in the provision to you of our Services and in our business, in each case, subject to our privacy policy, which is accessible in our Privacy Policy. You are entitled to revoke your permission to use your Personal Data or send us any instructions with respect to your Personal Data at any time by sending an email to admin@usasfaa.com with your request or instructions. Please note that revoking your permission to use your Personal Data per our Privacy Policy may trigger the immediate cancelation of your Account."
+        }
+      ]
+    },
+    {
+      "title": "Representations and Warranties",
+      "content": [
+        {
+          "type": "list-ol",
+          "subTitle": "You represent and warrant that:",
+          "listType": "lower-alpha",
+          "list": [
+            "You have the legal power and authority to Register your Account and accept the Terms",
+            "You have not falsely identified yourself or provided any false information to gain access to the Services; Your contact and billing information on your Account is correct",
+            "You are not accessing and have not accessed the Services to commit illegal acts, or violate any provisions of the Terms, and you aren’t a competitor of ours and you aren’t acting on behalf of a competitor of ours",
+            "You are in full compliance with any laws, regulations, or rules applicable to the Services",
+            "including those promulgated by USPS; and",
+            "You have completed and submitted the USPS Form 1583 as required, if applicable."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You further represent and warrant that You are the authorized user and (if applicable) signatory to the payment mechanism used to open and maintain your Account, and agree that you are responsible for any use, activity and charges incurred by you and any other users under your Account. You acknowledge and agree that your breach of any of these representations and warranties shall entitle us to injunctive relief (monetary damages not being sufficient remedy), as well as available monetary damages and attorneys’ fees and costs, at our sole discretion."
+        }
+      ]
+    },
+    {
+      "title": "Indemnity",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You agree to protect, defend, indemnify and hold us, our respective affiliates, subsidiaries, parents, and their respective shareholders, officers, directors, agents, employees, independent contractors, assigns and representatives, and Your MC, harmless from and against any and all claims, losses, liabilities, causes of action, judgments, penalties, costs, damages and expenses personal injury or property damage (including attorneys’ fees, litigation costs and expenses) (collectively, “Claim”) incurred by us including, without limitation, any Claim arising from or related to:"
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            "the Terms",
+            "the Services",
+            "your use of, or inability to use, the Services including, but not limited to, any copyright or privacy breach claims arising in connection with the Services",
+            "the failure of any third party, USPS or any commercial delivery service to provide delivery services accurately and on time or non-delivery",
+            "any loss, damage or destruction of your Mail by any cause whatsoever whether or not attributable to us or the Your MC (whether by negligence or intentional act or omission)",
+            "any violation by you of any law or government regulation applicable to the Services; and",
+            "the consequences of success or attempt by third parties to serve you with legal process through the Services."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither we nor Your MC are liable or responsible for Mail for which there is no record of receipt."
+        },
+        {
+          "type": "paragraph",
+          "text": "You also indemnify us and Your MC from collection or remission of sales, use, or any other taxes, including, but not limited to, a failure to refund any amounts that have been collected or remitted, from any penalties, fines, or other liabilities that arise out of, or in connection with, actions or status as your agent with respect to export transactions, or CMRA’s completion and filing of any Shipper’s Export Declaration on your behalf, and from any violation by you of applicable federal, state, or local laws, or the laws of any foreign jurisdiction. In the event that Your MC submits or processes any sales, use, or other tax refund claim on your behalf, you agree to cooperate fully with Your MC, including, but not limited to, providing any and all information and documentation necessary to process or submit such a claim."
+        }
+      ]
+    },
+    {
+      "title": "Governing Law; Service of Process; Attorney Fees",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Regardless of your location or the location or your Mail or Your MC, the Terms are governed by the laws of the United Arab Emirates, without regard to its conflicts of law principles or the conflicts of law principles of any other jurisdiction. Any references to statutes or regulations in the Terms will include any changes, amendments or extensions (as the case may be) of such statutes or regulations and upon any such changes, amendments or extensions, the Terms will be updated automatically to reflect the same without any further action on our part and whether or not such update is included in the copy of the Terms that is accessible on our Site. For the avoidance of doubt, the United Nations Convention for the International Sale of Goods and any other United Nations laws or other international laws that purport to apply or could potentially apply to the Terms shall not apply."
+        }
+      ]
+    },
+    {
+      "title": "Dispute Resolution.",
+      "content": []
+    },
+    {
+      "title": "Remedies",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the event of a breach of the Terms by any party, the non-breaching party shall be entitled to all appropriate equitable and legal relief, including, but not limited to:"
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            "an injunction to enforce the Terms or prevent conduct in violation of the Terms",
+            "damages incurred by the non-breaching party as a result of the breach; and ",
+            "attorneys’ fees and costs (at all arbitral, trial, and appellate levels) incurred by the non-breaching party in enforcing the terms of the Terms."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "THE FOLLOWING IS A MANDATORY ARBITRATION PROVISION",
+      "content": []
+    },
+    {
+      "title": "Dispute Resolution",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any issue, question, dispute, claim or controversy arising out of or relating to the Terms or any provision thereof, or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of the Terms to arbitrate, shall be determined by arbitration in Dubai, United Arab Emirates in English, before a single arbitrator (“Arbitrator”). The arbitration shall be administered by JAMS pursuant to its Streamlined Arbitration Rules and Procedures (“Rules”) and in accordance with the expedited procedures in those Rules. Judgment on the Award may be entered in any court having jurisdiction. This dispute resolution provision shall include urgent or emergency arbitration relief and not preclude any party from seeking provisional remedies in aid of such urgent or emergency arbitration relief from an arbitrator in accordance herewith. The arbitrator shall have the power to award any remedy provided under applicable law, except that the arbitrator shall have no power to award:"
+        },
+        {
+          "type": "list-ol",
+          "listType": "lower-alpha",
+          "list": [
+            "punitive, exemplary, or multiple damages under any legal theory, except in the event of a party’s or its agent’s gross negligence or intentional misconduct",
+            "mandatory or prohibitory injunctive relief, except for temporary relief in aid of the arbitration or to secure the payment of an award or",
+            "any damages in excess of the limits set forth in this section or Section 2323 (Limitation of Liability) above."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Where a party intends to seek arbitration of a dispute, that party must provide the other party with notice in writing (“Dispute Notice”). If the parties are unable or unwilling to resolve the dispute within 30 days after a Dispute Notice is given, the dispute will be resolved by arbitration upon one party sending the other party or parties and the Arbitrator a demand for arbitration. For the avoidance of doubt, no arbitration demand may be submitted until at least 30 days after all parties to the dispute have received or are deemed to have received the Dispute Notice."
+        }
+      ]
+    },
+    {
+      "title": "Effects of Mandatory Arbitration",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The parties understand, acknowledge, and agree that by agreeing to arbitrate in the manner required under Section 3232(b), they are each waiving any right they may have to bring before a court (for other than injunctive relief as provided below), any claim that such party may have arising out of, or for any violation of, any federal, state, local or other law, regulation or ordinance, or any other rights protected or arising under any law, rule or regulation. Nevertheless, the parties agree to waive all such rights they may have and agree to submit all disputes to binding arbitration in accordance with the terms of Section 3232(b)."
+        },
+        {
+          "type": "list-ol",
+          "subTitle": "Notwithstanding the foregoing, the following claims (“Litigation Claims”) shall be litigated and not arbitrated:",
+          "listType": "lower-alpha",
+          "list": [
+            "claims against a party to this Agreement under the provisions involving claims by third parties;",
+            "claims by a party for the unauthorized use, or the misuse, by the other party of the first party’s Confidential Information;",
+            "claims by us to collect fees; and",
+            "claims for mandatory or prohibitory injunctive relief, except for temporary relief in aid of arbitration or to secure the payment of an arbitration award under this Agreement. The Litigation Claims are not subject to arbitration and are expressly excluded by the parties from arbitration unless otherwise agreed in writing."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "THE FOLLOWING IS A WAIVER OF RIGHTS TO A CLASS ACTION",
+      "content": []
+    },
+    {
+      "title": "Waiver of Class Action",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All dispute resolution under the Terms must be on an individual basis. This means that neither we nor you may consolidate our or your claims in arbitration by or against any other party, or litigate in court, or arbitrate any dispute, claim or controversy as a representative or member of a class or in a private attorney general capacity. To the extent that a dispute arises as to this Section 3232(f), only a court of law in Dubai, United Arab Emirates, not the Arbitrator, shall determine the validity and effect of this class action waiver."
+        }
+      ]
+    },
+    {
+      "title": "Authority and Decision",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Arbitrator shall have the authority to award the same damages and other relief that a court could award. The Arbitrator shall issue a reasoned award explaining the decision and any damages awarded. The Arbitrator’s decision will be final and binding upon the parties. The parties will abide by, and fully perform, any award rendered by the Arbitrator. In rendering the award, the Arbitrator shall state the reasons therefore, including (without limitation) any computations of actual damages or offsets, if applicable."
+        }
+      ]
+    },
+    {
+      "title": "Fees and Costs",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the event of arbitration under the Terms, the fees charged by JAMS or other arbitration administrator and the Arbitrator shall be borne by the parties as determined by the Arbitrator, except for any initial registration fee, which the parties shall bear equally despite any other rule or directive by JAMS. Otherwise, the parties shall each bear their own costs, expenses and attorneys’ fees incurred in arbitration, except as otherwise decided by the Arbitrator. In the event of any dispute arising under the Terms, the prevailing party shall be entitled to recover its reasonable costs and expenses actually incurred in endeavoring to enforce the Terms, including reasonable attorney fees."
+        }
+      ]
+    },
+    {
+      "title": "Confidentiality",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The arbitration proceedings including all filings, discovery and communications related to such proceedings and any result(s) of arbitration (including any arbitration award) shall be maintained as confidential information by the parties, except as otherwise required by court order or as necessary to confirm, vacate or enforce the award and for disclosure in confidence to the parties’ respective attorneys, tax advisors and senior management and other parties with a strict need to know."
+        }
+      ]
+    },
+    {
+      "title": "Enforcement; Jurisdiction; Service of Process",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To the extent court action is required to enforce any arbitration decision hereunder or the waiver of class action under Section 32(f), such action shall be brought in the state and federal courts located in and for Dubai, United Arab Emirates, and each of the parties consents to the jurisdiction of such courts (and of the appropriate appellate courts) in any such action or proceeding and waives any objection to venue laid therein. Process in any action or proceeding referred to in the preceding sentence may be served on any party anywhere in the world."
+        },
+        {
+          "type": "paragraph",
+          "text": "You hereby agree, and waive any objection to, service of process on You by means of Mail, Platform message, or email sent to your Account. In the event of any dispute arising under the Terms including, but not limited to, a suit to collect amounts due for Services provided to you by us, the prevailing party shall be entitled to recover attorneys’ fees and costs."
+        }
+      ]
+    },
+    {
+      "title": "Notices, Agreement, and Waiver for Certain Notices or Communications",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "By using the Services, you consent to receiving electronic communications from us for any communications required or permitted under the Terms. These communications include notices about your Account and information concerning the Services. You agree that any notice, agreements, disclosure, or other communications that we send to you electronically will satisfy any legal requirements for written communication. You hereby consent and authorized us to communicate with you at any time, including but not limited to, between the hours of 9 p.m. and 8 a.m. in your time zone. Furthermore, you hereby waive and release us from any cause of action that may have arisen or that may arise regarding our communications to you between the hours of 9 p.m. and 8 a.m. (or any other time deemed “unusual”,) in your time zone, concerning renewals, missed payments, or collections of outstanding balances. Notwithstanding, we endeavor to communicate with you for such matters only via email and text messaging."
+        }
+      ]
+    },
+    {
+      "title": "Non-Waiver",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If any party to the Terms fails to enforce any provision hereof, or fails to exercise any right at any time, such failure shall not constitute a waiver of that or any other provision or right."
+        }
+      ]
+    },
+    {
+      "title": "Assignment",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You may not assign the Terms without our prior written consent. We may assign the Terms without your consent. The Terms will inure to the benefit, of all successors and assigns"
+        }
+      ]
+    },
+    {
+      "title": "Modification",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We expressly reserve the right, at our sole and absolute discretion, to change, modify, add to, supplement or delete any of the Terms and review, improve, modify or discontinue, temporarily or permanently, the Services or any content or information through the Services at any time, effective with or without prior notice and without any liability to us. We will endeavor to notify you of these changes but will not be liable for any failure to do so. If any future changes to the Terms are unacceptable to you or cause you to no longer be in compliance with the Terms, you must terminate your Account and immediately stop using the Services. Any continued use of the Services by you following any revision to the Terms constitutes your complete, unconditional and irrevocable acceptance of any and all such changes. We may change, modify, suspend or discontinue any aspect of the Services at any time without notice or liability. We may also impose limits on certain features or restrict your access to parts or all of the Services without notice or liability."
+        }
+      ]
+    },
+    {
+      "title": "Entire Agreement, Severability",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Terms contain the entire agreement relative to the Services and supersedes all prior or contemporaneous oral or written understandings and agreements concerning its subject matter. If any provision of the Terms is found to be invalid or unenforceable, the remaining provisions will be enforced to the fullest extent possible, and the remaining provisions will remain in full force and effect."
+        }
+      ]
+    },
+    {
+      "title": "Suggestions and Feedback",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable, perpetual license to use or incorporate into the Platform and Services any suggestions, enhancement requests, recommendations or other feedback provided by you, relating to the operation of the Services or Platform."
+        }
+      ]
+    },
+    {
+      "title": "Force Majeure",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Neither us nor Your MC will be liable for any delay or failure to perform any obligation under the Terms where the delay or failure results from any cause beyond its reasonable control, including, but not limited to, acts of God, labor disputes or other industrial disturbances, electrical or power outages, utilities or other telecommunications failures, earthquake, pandemic, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war."
+        }
+      ]
+    }
+  ]
+}

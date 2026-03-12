@@ -1,0 +1,207 @@
+{
+  "content": [
+    {
+      "title": "Introduction",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Welcome to GalleyCloud. These Terms & Conditions (\"Terms\") govern your access to and use of the GalleyCloud website, platform, and related services (collectively, the \"Services\")."
+        },
+        {
+          "type": "paragraph",
+          "text": "By accessing or using GalleyCloud, you agree to be bound by these Terms. If you do not agree, please do not use our Services."
+        }
+      ]
+    },
+    {
+      "title": "About GalleyCloud",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "GalleyCloud is a digital aviation catering and operations platform designed to help aviation operators manage in-flight catering coordination, supplier access, and operational workflows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Services are intended for business, charter, and private aviation professionals."
+        }
+      ]
+    },
+    {
+      "title": "Account Creation",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To use GalleyCloud, you must meet the following requirements:"
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": [
+            "Be at least 18 years old",
+            "Be authorized to act on behalf of an aviation operator, organization, or business",
+            "Provide accurate, complete, and current registration information"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You are responsible for maintaining the confidentiality of your login credentials, all activity under your account, and ensuring compliance with applicable aviation regulations."
+        }
+      ]
+    },
+    {
+      "title": "Platform Use",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You agree to use GalleyCloud only for lawful and operationally appropriate purposes."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": [
+            "Misuse the platform for fraudulent or misleading activities",
+            "Interfere with system security or performance",
+            "Attempt to access restricted areas without authorization",
+            "Use the platform to violate aviation, safety, or compliance regulations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We reserve the right to suspend or terminate access if misuse is detected."
+        }
+      ]
+    },
+    {
+      "title": "Services & Providers",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "GalleyCloud connects users with independent catering providers and service partners."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": [
+            "GalleyCloud does not prepare, manufacture, or physically deliver catering",
+            "Availability, pricing, and fulfillment are determined by third-party providers",
+            "GalleyCloud facilitates coordination, communication, and visibility"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Final responsibility for service delivery rests with the respective provider."
+        }
+      ]
+    },
+    {
+      "title": "Information Accuracy",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We strive to ensure that all information on the platform is accurate and up to date."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": [
+            "Availability may change due to operational constraints",
+            "Last-minute flight changes may impact fulfillment",
+            "Information depends on third-party provider inputs"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "GalleyCloud is not liable for inaccuracies beyond reasonable control."
+        }
+      ]
+    },
+    {
+      "title": "Payments",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If applicable, fees or subscription details will be clearly communicated prior to purchase."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": [
+            "Payments must be made according to agreed terms",
+            "Failure to pay may result in suspension of Services",
+            "All fees are non-refundable unless explicitly stated otherwise"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Intellectual Property Rights",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All content on GalleyCloud, including logos, platform design, text, graphics, and software, is the intellectual property of GalleyCloud or its licensors."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may not copy, reproduce, or distribute any part of the platform without prior written permission."
+        }
+      ]
+    },
+    {
+      "title": "Data Protection",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We take data protection seriously and implement reasonable safeguards to protect your information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Operational data may be processed to provide Services. You are responsible for protecting sensitive credentials."
+        },
+        {
+          "type": "paragraph",
+          "text": "For more details, please review our Privacy Policy."
+        }
+      ]
+    },
+    {
+      "title": "Liability Limitations",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To the maximum extent permitted by law, GalleyCloud is not liable for indirect, incidental, or consequential damages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Liability is limited to the amount paid for Services, if any, including delays or disruptions caused by third-party providers."
+        }
+      ]
+    },
+    {
+      "title": "Service Uptime",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We aim to provide reliable access but do not guarantee uninterrupted service."
+        },
+        {
+          "type": "list-ul",
+          "listType": "disc",
+          "list": ["Scheduled maintenance", "System updates", "Network or infrastructure issues"]
+        }
+      ]
+    },
+    {
+      "title": "Account Closure",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We may suspend or terminate access if these Terms are violated, misuse or security risks are identified, or if required by law."
+        },
+        {
+          "type": "paragraph",
+          "text": "You may discontinue use of GalleyCloud at any time."
+        }
+      ]
+    }
+  ]
+}

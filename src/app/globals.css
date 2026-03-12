@@ -1,42 +1,67 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ===============================
+   Local Custom Fonts
+================================= */
+
+@font-face {
+  font-family: "Soligant";
+  src: url("/assets/fonts/Soligant.otf") format("opentype");
+  font-display: swap;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@font-face {
+  font-family: "Miama";
+  src: url("/assets/fonts/miama/Miama.otf") format("opentype");
+  font-display: swap;
 }
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
+/* ===============================
+   Global Reset
+================================= */
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
-  box-sizing: border-box;
-  padding: 0;
+*,
+*::before,
+*::after {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+*:focus-visible {
+  outline: none;
+}
+
+/* ===============================
+   Body
+================================= */
+
+body {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  /* Quattrocento is applied via next/font in RootLayout */
+}
+
+/* ===============================
+   Links
+================================= */
 
 a {
-  color: inherit;
   text-decoration: none;
+  color: inherit;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+/* ===============================
+   Utility Font Classes
+================================= */
+
+.soligant {
+  font-family: "Soligant", serif;
+}
+
+.miama {
+  font-family: "Miama", cursive;
 }
