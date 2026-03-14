@@ -27,7 +27,15 @@ export const CommonAppHeader: React.FC = () => {
 
   return (
     <Stack>
-      <AppBar>
+     <AppBar 
+  position="fixed" 
+  sx={{ 
+    backgroundColor: "white", 
+    color: "black",
+    boxShadow: "none",
+    borderBottom: "1px solid #e0e0e0" 
+  }}
+>
         <Toolbar
           sx={{ paddingLeft: { xs: "0rem" }, paddingRight: { xs: "0rem" }, height: "4.8rem" }}
         >

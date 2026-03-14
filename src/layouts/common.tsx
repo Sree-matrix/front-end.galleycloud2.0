@@ -2,44 +2,39 @@
 
 import React, { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
-
 import { Box, Stack } from "@mui/material";
 
+// Keep these dynamic
 const CommonAppHeader = dynamic(
   () => import("@/components/app-header/common").then((mod) => mod.CommonAppHeader),
-  { ssr: false },
+  { ssr: false }
 );
 
-const AppFooter = dynamic(() => import("@/components/app-footer").then((mod) => mod.AppFooter), {
-  ssr: false,
-});
+const AppFooter = dynamic(
+  () => import("@/components/app-footer").then((mod) => mod.AppFooter),
+  { ssr: false }
+);
 
 interface ILayoutProps {
-  children: React.ReactNode;
+  readonly children: React.ReactNode;
 }
-
-const CommonLayout: React.FC<ILayoutProps> = ({ children }) => {
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
-
-  if (!mounted) return null;
-
+export const CommonLayout: React.FC<ILayoutProps> = ({ children }) => {
   return (
-    <Box sx={{ minHeight: "100vh", width: "100%" }}>
+    <Box 
+      sx={{ 
+        display: "flex", 
+        flexDirection: "column", 
+        minHeight: "100vh",
+        width: "100vw",        
+        overflowX: "hidden",   
+        position: "relative"
+      }}
+    >
       <CommonAppHeader />
-
-      <Stack
-        component="main"
-        sx={{
-          width: "100%",
-        }}
-      >
+      <Box component="main" sx={{ flexGrow: 1, width: "100%", overflowX: "hidden" }}>
         {children}
-      </Stack>
-
+      </Box>
       <AppFooter />
     </Box>
   );
 };
-
-export { CommonLayout };

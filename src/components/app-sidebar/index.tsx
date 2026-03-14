@@ -13,21 +13,20 @@ interface ISideBarProps {
 
 export const SideBar: React.FC<ISideBarProps> = (props) => {
   const { open, onClose } = props;
-  const mobileSideBarWidth = "100%";
 
   return (
-    <Drawer
+  <Drawer
       anchor="right"
       open={open}
       onClose={onClose}
       sx={{
-        width: mobileSideBarWidth,
-        height: "100%",
+        zIndex: 9999, 
+        width: "100%",
         "& .MuiDrawer-paper": {
-          width: mobileSideBarWidth,
+          width: "100%",
           height: "100%",
           backgroundColor: "#0D184A",
-          backgroundImage: "none",
+          boxSizing: "border-box",
         },
       }}
     >
